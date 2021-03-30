@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #71c9ce;
+  font-size: 64px;
+  font-family: 'Sacramento', cursive;
+  margin-top: 150px;
+}
+
+h2 {
+  color: #71c9ce;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #71c9ce;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  text-align: center;
+  padding: 20px;
+}
+hr {
+  border-style: dotted none none none;
+  border-color: #71c9ce;
+  border-width: 7px;
+  width: 8%;
+}
+
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top_container_p {
+  color: #71c9ce;
+  font-size: 24px;
+  text-align: center;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-img {
+  margin-top: 20px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+
+.bottom-compass {
+  position: absolute;
+  left: 425px;
+  bottom: 350px;
+}
+
+.top-compass {
+  position: absolute;
+  right: 450px;
+  top: 150px;
+}
+.boat {
+  width: 500px;
+  height: 450px;
+}
+
+.middle-container {
+  color: #71c9ce;
+  font-size: 18px;
+  background-color: #e3fdfd;
+  padding-bottom: 100px;
+}
+
+.contact-me {
+  position: relative;
+}
+address {
+  color: #71c9ce;
+  position: absolute;
+  text-align: justify;
+  left: 43%;
+  top: 100px;
+}
+.btn {
+  color: #71c9ce;
+}
